@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class BmiApp {
+public class BMIAPP {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         String repeat; 
